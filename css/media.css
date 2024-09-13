@@ -1,0 +1,7 @@
+@media (min-width: 576px)
+{
+    .border_h
+    {
+        border-left: 1px solid rgba(255, 255, 255, 0.5);
+    }
+}
